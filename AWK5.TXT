@@ -1,0 +1,8 @@
+BEGIN{
+
+name = maruthu
+
+	printf "%s\n", name
+	printf "%10s\n", name
+	printf "%-10s\n", name
+}

@@ -1,0 +1,2 @@
+rm: cannot remove 'dfajdkljf': No such file or directory
+rm: cannot remove 'dfajdkljfdfad': No such file or directory

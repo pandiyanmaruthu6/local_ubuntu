@@ -1,0 +1,7 @@
+sr.no	name	days	sal
+1	maruthu	24	203999
+2	ananth	21	12449	
+3	karthi	29	123489
+4	vintoh	12	124900
+5	maha	27	42190
+
